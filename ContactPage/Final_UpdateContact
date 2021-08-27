@@ -316,3 +316,7 @@ fieldset {
   </div>
 </div>
 </html>
+
+<script>
+	alert("Query Successfully Submitted")
+</script>
